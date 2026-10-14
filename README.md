@@ -46,4 +46,4 @@ This is an educational scalar model intended to help visualize interference. It 
 
 ## License
 
-This project is available for educational and personal use.
+This project is available for educational and personal use, in short you can do whatever you want with this
